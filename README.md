@@ -7,6 +7,6 @@
 ![Python](https://img.shields.io/badge/-Python-284051?style=flat-square&logo=Python&logoColor=FFB414)
 ![SQL](https://img.shields.io/badge/-SQL-284051?style=flat-square&logo=mysql&logoColor=FFB414)
 
-### Follow Me
+### Find Me
 [![Vkontakte](https://img.shields.io/badge/-VKONTAKTE-284051?style=flat-square&logo=Vk)](https://vk.com/rasulivey) 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-284051?style=flat-square&logo=Telegram)](https://t.me/rasulivey)
