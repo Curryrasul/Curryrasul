@@ -5,8 +5,7 @@
 ![Go](https://img.shields.io/badge/-Golang-284051?style=flat-square&logo=go&logoColor=FFB414)
 ![Java](https://img.shields.io/badge/-Java-284051?style=flat-square&logo=java&logoColor=FFB414)
 ![SQL](https://img.shields.io/badge/-SQL-284051?style=flat-square&logo=PostgreSql&logoColor=FFB414)
-![Python](https://img.shields.io/badge/-Python-284051?style=flat-square&logo=Python&logoColor=FFB414)
-![C++](https://img.shields.io/badge/-C++-284051?style=flat-square&logo=C%2b%2b&logoColor=6295CC)
+![Solidity](https://img.shields.io/badge/-Solidity-284051?style=flat-square&logo=Solidity&logoColor=FFB414)
 
 ### Find Me
 [![Vkontakte](https://img.shields.io/badge/-VKONTAKTE-284051?style=flat-square&logo=Vk)](https://vk.com/rasulivey) 
