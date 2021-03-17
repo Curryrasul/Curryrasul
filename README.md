@@ -4,7 +4,6 @@
 ### Languages and Tools
 ![Go](https://img.shields.io/badge/-Golang-284051?style=flat-square&logo=go&logoColor=FFB414)
 ![Java](https://img.shields.io/badge/-Java-284051?style=flat-square&logo=java&logoColor=FFB414)
-![SQL](https://img.shields.io/badge/-SQL-284051?style=flat-square&logo=PostgreSql&logoColor=FFB414)
 ![Solidity](https://img.shields.io/badge/-Solidity-284051?style=flat-square&logo=Solidity&logoColor=FFB414)
 
 ### Find Me
