@@ -2,8 +2,8 @@
 
 
 ### Languages and Tools
-![Solidity](https://img.shields.io/badge/-Solidity-284051?style=flat-square&logo=Solidity&logoColor=FFB414)
 ![Rust](https://img.shields.io/badge/-Rust-284051?style=flat-square&logo=Rust&logoColor=FFB414)
+![Solidity](https://img.shields.io/badge/-Solidity-284051?style=flat-square&logo=Solidity&logoColor=FFB414)
 ![Go](https://img.shields.io/badge/-Golang-284051?style=flat-square&logo=go&logoColor=FFB414)
 ![Java](https://img.shields.io/badge/-Java-284051?style=flat-square&logo=java&logoColor=FFB414)
 
